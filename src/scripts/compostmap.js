@@ -4,12 +4,12 @@ console.log(images)
 mapboxgl.accessToken = 'pk.eyJ1IjoiYXBhcmsyMDIwIiwiYSI6ImNreWYxaHJmaTA4aXkyb25hNm5hOW03d3EifQ.B4hdg3BWPvgkXvd802O2Ng';
 
 var ceramic = "ceramic-01"
-var togo = "compostable-01"
+var togo = "togo-container-01"
 var bin = "compost_bin-01"
 var conveyor = "conveyor-01"
 var eco = "eco-tray-01"
 var paper = "paper-01"
-var plastic = "plastic-01"
+var plastic = "plastic_v2-01"
 var platter = "platters-01"
 var recycle = "recycling_bin-01"
 var trash = "trash_bin-01"
@@ -43,7 +43,7 @@ map.on('click', (event) => {
     .setHTML(
       `
               <div class=throw>
-              <p style="margin-top:2%;margin-bottom:1%;">Disposal Options</p>
+              <p style="margin-top:2%;margin-bottom:1%;">Disposal options</p>
               <img class=icons id=trash src='${images[trash]}'></img>
               <img class=icons id=recycle src='${images[recycle]}'></img>
               <img class=icons id=bin src='${images[bin]}'></img>
@@ -51,7 +51,7 @@ map.on('click', (event) => {
               <img class=icons id=conveyor src='${images[conveyor]}'></img>
                 </div>
               <div class=plate style="margin-bottom:2%;">
-              <p style="margin-top:0%;margin-bottom:2%;">Container Options</p>
+              <p style="margin-top:0%;margin-bottom:2%;">Container options</p>
               <img class=icons id=ceramic src='${images[ceramic]}'></img>
               <img class=icons id=eco src='${images[eco]}'></img>
               <img class=icons id=togo src='${images[togo]}'></img>
