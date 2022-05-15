@@ -38,20 +38,20 @@ map.on('click', (event) => {
   }
   const feature = features[0];
 
-  const popup = new mapboxgl.Popup({ offset: [0, -15] })
+  const popup = new mapboxgl.Popup()
     .setLngLat(feature.geometry.coordinates)
     .setHTML(
       `
               <div class=throw>
-              <p>Disposal Options</p>
+              <p style="margin-top:2%;margin-bottom:1%;">Disposal Options</p>
               <img class=icons id=trash src='${images[trash]}'></img>
               <img class=icons id=recycle src='${images[recycle]}'></img>
               <img class=icons id=bin src='${images[bin]}'></img>
               <img class=icons id=platter src='${images[platter]}'></img>
               <img class=icons id=conveyor src='${images[conveyor]}'></img>
                 </div>
-              <div class=plate>
-              <p>Container Options<p>
+              <div class=plate style="margin-bottom:2%;">
+              <p style="margin-top:0%;margin-bottom:2%;">Container Options</p>
               <img class=icons id=ceramic src='${images[ceramic]}'></img>
               <img class=icons id=eco src='${images[eco]}'></img>
               <img class=icons id=togo src='${images[togo]}'></img>
@@ -130,3 +130,8 @@ map.on('mouseleave', 'dininghalllocations', () => {
   map.getCanvas().style.cursor = ''
 });
 map.scrollZoom.disable();
+// disable map rotation using right click + drag
+map.dragRotate.disable();
+ 
+// disable map rotation using touch rotation gesture
+map.touchZoomRotate.disableRotation();
