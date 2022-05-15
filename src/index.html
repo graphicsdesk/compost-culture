@@ -60,6 +60,9 @@
               <if condition="item.value.asset === 'graphic-name.html'">
                 <include src="graphic-name.html"></include>
               </if>
+              <if condition="item.value.asset === 'compostmap.html'">
+                <include src="compostmap.html"></include>
+              </if>
             </div>
           </case>
         </switch>
@@ -69,5 +72,7 @@
     <include src="partials/footer.html"></include>
 
     <script src="./script.js"></script>
+    <script src="./scripts/compostmap.js"></script>
   </body>
 </html>
+
