@@ -10,11 +10,39 @@
         "body": [
           {
             "type": "text",
-            "value": "Leadin. Something to draw the reader in. Graphics is the only visuals and words desk at the Spectator."
+            "value": "After grabbing dinner from Ferris Booth Commons on an uneventful school night, I attempted to discard my leftovers, plastic cutlery, and compostable plates in the bins presented to me. Should I have thrown my plastic utensils in the bin for metal, plastic, or glass and cartons? What about food scraps and compostable items? In the trash? Plates in the bin for mixed paper maybe?"
           },
           {
             "type": "text",
-            "value": "Nutgraf. What is the meat of the story? Why does this matter?"
+            "value": "It was then that a Facilities staff member, waiting to collect the bins, informed me it did not matter which one I placed them in: They were all going to the same place anyway. Distraught, I stood and watched as they combined the waste from all three bins into a single trash bag, realizing that my efforts were pointless."
+          },
+          {
+            "type": "text",
+            "value": "Why, then, does Columbia have separate bins? Why does it use compostable plates if, ultimately, compostable and recyclable waste is doomed to an eternity in a nonbiodegradable trash bag in the landfill? This encounter spurred my project of trying to understand Columbia’s waste disposal system and compost culture—or, rather, the lack thereof."
+          },
+          {
+            "type": "text",
+            "value": "I’ve discovered that there are major loopholes within Columbia’s “sustainable” waste management system. Efforts to reduce waste on Columbia’s campus are undermined by two connected problems: inaccessibility of proper disposal bins and waste contamination. The spatial constriction of the University’s current composting system, combined with inadequate sorting practices, means that its efforts of waste diversion—reusing, recycling, or composting materials rather than sending them to landfills—can be ineffective."
+          },
+          {
+            "type": "subhed",
+            "value": "Part 1: Where’s the compost?"
+          },
+          {
+            "type": "text",
+            "value": "Spectator conducted a survey polling over 260 students about their waste disposal habits and their thoughts on Columbia’s current waste disposal system. Of those surveyed, 84.8 percent feel that compost bins are not easily accessible on Columbia’s campus. With pandemic budget cuts forcing the New York City Department of Sanitation to discontinue composting in all but the sixth and seventh community board districts of Manhattan (Columbia is in the ninth), composting in Columbia residence halls remains largely unavailable to students."
+          },
+          {
+            "type": "text",
+            "value": "In dining halls, bins specifically labeled “compost” are almost nowhere to be found. The only marked compost bin is located on the second floor of Ferris Booth Commons. Waste stations at JJ’s Place, on the other hand, are misleadingly left unlabelled. In addition, newer dining options, including Chef Mike’s Sub Shop and Faculty House, have yet to be integrated into the University’s current composting program. And while the 2021 New Student Orientation Program saw Columbia Dining and Facilities introducing new compost locations near the South Lawn, these additional bins were removed after students persistently contaminated the bins with non-compostable items."
+          },
+          {
+            "type": "text",
+            "value": "Columbia Dining partners with a third-party commercial carting company to compost all organic waste from John Jay Dining Hall, JJ’s, and Ferris. Any uneaten food sent through the dish conveyor belt at John Jay, which utilizes reusable plates and utensils, is put through the “insinkerator,” which creates pulped food waste collected in the back-of-the-house compost. According to Columbia Dining, all waste collected from the bins in JJ’s and Ferris is sent to a compost facility. These two dining halls, however, do not have dish rooms and instead provide compostable napkins and food vessels—like plates and bowls— to students. These and the food scraps placed in waste stations are collected for composting."
+          },
+          {
+            "type": "text",
+            "value": "Currently, there are no separate bins for trash and recycling in Ferris or in JJ’s. But ideally, any non-compostable items provided by these two dining halls, such as condiments, plastic cutlery, or food and cutlery wrappers, would be sorted out from the compost by the contracted third-party facility. In theory, no additional compost contamination should occur, because outside beverage containers are not permitted at any dining location."
           },
           {
             "type": "graphic",
@@ -24,19 +52,101 @@
           },
           {
             "type": "text",
-            "value": "<i>Charlotte Li is a Graphics deputy editor. She can be contacted at </i><a href=\"mailto:charlotte.li@columbiaspectator.com\"><i>charlotte.li@columbiaspectator.com</i></a><i>.</i>"
+            "value": "As a result, students who take their meals to-go must inevitably discard compostable vessels—plates, bowls, cups, and to-go boxes—in trash or recycling bins, while students dining in are unable to sort compostable waste from non-compostable items. Not only are there no recycling bins in dining halls, despite the use of plastic cutlery, but nor are there sinks or water stations nearby to rinse them, a necessity for recycling plastic and glass in New York City."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "ecocontainer.html"
+            }
           },
           {
             "type": "text",
-            "value": "<i>Jun Yi Zhang is a Graphics reporter. She can be contacted at </i><a href=\"mailto:junyi.zhang@columbiaspectator.com\"><i>junyi.zhang@columbiaspectator.com</i></a><i>.</i>"
+            "value": "But are these bins filled with too many contaminants for composting facilities to utilize? And how can students with compostable items outside dining halls compost their items properly? Spatially restricted composting options, combined with Columbia’s dining culture, where grabbing a convenient meal from Ferris or JJ’s to-go is common practice, makes the effective disposal of compostables difficult. While plates and even to-go boxes at both dining halls are compostable, there is no proper place to discard them around campus, undermining their purpose and the University’s sustainability efforts."
+          },
+          {
+            "type": "text",
+            "value": "After all, if compostable vessels can’t be composted, they’re trash."
+          },
+          {
+            "type": "subhed",
+            "value": "Part 2: Digging up dirt: We’re stuck in a pattern of waste contamination"
+          },
+          {
+            "type": "text",
+            "value": "The inaccessibility of proper disposal bins fuels waste contamination, which refers to waste being sorted into the incorrect bin or not being properly discarded—think a plastic bag placed in recycling or a plastic container left in recycling with food residue still left on it. When waste contamination occurs, it renders even the best sustainability efforts futile."
+          },
+          {
+            "type": "text",
+            "value": "Contamination is a hindrance to both recycling and composting facilities. Recycling facilities must throw out a great deal of otherwise recyclable items when batches of waste have too many contaminants. The quality of compost is also decreased by contaminants, which are difficult to sift through efficiently. On the other hand, when biodegradable materials such as food, paper, and garden waste end up in landfills, these materials contribute to climate change by releasing methane, a potent greenhouse gas."
+          },
+          {
+            "type": "text",
+            "value": "Thanks in part to the difficulties of accessing proper disposal bins, including a meager supply of compost bins, much of Columbia’s waste might be contaminated. Composting on campus may be a vicious cycle, however—the composting program that was piloted during NSOP in 2021 was suspended specifically due to high levels of contamination. An absence of waste-sorting knowledge can also derail sustainability efforts, raising further concerns about the viability of the current dining hall compost program."
+          },
+          {
+            "type": "text",
+            "value": "Indeed, data collected from Spectator’s survey confirms that waste bins around campus may be highly contaminated. Of the students surveyed by Spectator, only 55 percent self-reported that they “almost always” separate their waste according to different bin labels around campus, although an additional 32.3 percent indicated they did so often. In addition, 48.7 percent of students indicated they dispose of compostable items provided by dining halls into trash bins—suggesting almost half of compostable vessels provided by Columbia Dining may be sent directly to landfill after use. Furthermore, 15.6 percent indicated they place compostable items in the “Mixed paper” bin and 4.8 percent into the “Metal, plastic, and glass” bin, thereby contaminating recyclable waste."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "compostbins.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Inaccessibility and waste contamination can become a vicious cycle. Because waste contamination occurs often, facilities may be incentivized to suspend waste diversion initiatives—in turn making proper disposal bins more inaccessible. At the end of the day, campus waste is not being properly sorted, a condition which hurts sustainability efforts from both students and the administration."
+          },
+          {
+            "type": "subhed",
+            "value": "Part 3: Reduce, reuse, and reconsider Columbia’s current waste disposal system"
+          },
+          {
+            "type": "text",
+            "value": "Poor waste management directly contributes to climate change and air pollution. Failure to recycle or repurpose materials through measures like composting feeds an unsustainable system which exploits the planet’s finite resources. According to the Environmental Protection Agency, about 75 percent of waste produced in the United States is recyclable, yet only 34 percent is recycled, while 25 percent of waste that is placed in a recycling bin does not belong there."
+          },
+          {
+            "type": "text",
+            "value": "When asked how confident they feel on a scale from one to 10 in their ability to decipher what is and is not compostable, the average comfort level was a 7.1. When asked about their comfort deciphering what is and is not recyclable on a scale from one to 10, the average comfort level came out to 6.8. Despite students’ overall confidence, the range of responses—combined with documented incidences of missorting—indicates that further education on sorting waste may be useful. Still, if students’ average comfort level detecting compost is above 7, but a majority—69.1 percent—of them place compostable vessels into the improper bin, waste contamination may not be attributable to lack of knowledge alone."
+          },
+          {
+            "type": "text",
+            "value": "As stated on the Columbia Dining website, “food waste is avoidable and unnecessary.” A major component of Columbia’s sustainability plan “Plan 2030” is waste reduction, in alignment with New York City’s goal to send zero waste to landfills by 2030. While Columbia has made significant strides in its sustainability efforts regarding waste, including sending 95 percent of waste generated from academic buildings to a waste-to-energy plant, the Sustainable Columbia website admits to a “relatively stagnant diversion rate.” To achieve waste diversion or avoid sending reusable materials to landfill, waste should be properly sorted."
+          },
+          {
+            "type": "text",
+            "value": "If aiming to be zero waste is part of Plan 2030, the University has an obligation to make proper waste disposal more viable. By promoting the use of compostable vessels without providing an adequate supply of compost bins throughout campus, Columbia risks representing its waste diversion efforts as forms of “greenwashing,” when an organization performs environmental consciousness without making significant or effective sustainability efforts."
+          },
+          {
+            "type": "text",
+            "value": "Although the suspension of the DSNY curbside composting program impacted Columbia’s composting capacities, Columbia already works with a third-party commercial carting company to compost waste for three of its dining halls—so what is stopping the University from expanding this partnership or contracting another company? If Columbia wants to effectively divert reusable waste from landfills, then it would do well to label compost bins and make them accessible throughout the entire Morningside campus."
+          },
+          {
+            "type": "text",
+            "value": "It is easy to feel that large-scale issues like Columbia’s waste disposal practices, which admittedly have many moving parts, are beyond our help. Still, our individual actions add up. We can do our part by educating ourselves on what is and is not <a href=\"https://sustainable.columbia.edu/content/compost\">compostable</a> and by becoming familiar with <a href=\"https://www1.nyc.gov/assets/dsny/site/services/recycling/what-to-recycle\">New York City’s recycling rules</a>, so that we can properly sort waste and less reusable waste ends up in landfills. We can also accumulate compostables and participate in the GrowNYC program, which collects food scraps at the Greenmarket on Broadway on Thursdays and Sundays. Another alternative includes utilizing Barnard’s yellow “organics” bins—located in Barnard Hall, Milbank Hall, Altschul Hall, and the Diana Center—to dispose of food scraps, although I have noticed these are often missing. My suite keeps a compost bin in our kitchen to make proper food waste disposal more convenient. These actions, however, do not resolve the issue of disposing of compostable vessels around campus—neither program accepts them."
+          },
+          {
+            "type": "text",
+            "value": "Practicing sustainable waste disposal under Columbia’s current system can, admittedly, be inconvenient. Still, I believe it doesn’t have to be this way. When far from Ferris or JJ’s, I don’t know where to dispose of compostable vessels, other than the trash bin right by me. Yet, I can’t help but wince everytime I see piled-up compostable vessels and food scraps overflowing in campus trash bins. When we stand in front of a waste station, be it in Ferris or on the South Lawn, we should know exactly where our waste should go and be confident that it will get there. While we must do our part, ultimately, it will take a combination of student action and renewed administrative efforts to expand Columbia’s composting program and eliminate the waste contamination currently hindering meaningful waste diversion initiatives."
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff writer </i><i>Daniela Miranda</i><i> can be contacted at </i><a href=\"mailto:daniela.miranda@columbiaspectator.com\"><i>daniela.miranda@columbiaspectator.com</i></a><i>. Follow The Eye on </i><a href=\"https://www.instagram.com/theeye.mag/\"><i>Instagram</i></a><i>. </i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
           }
         ],
-        "headline": "The U.S. and Ivy League schools were late to respond to COVID-19.",
-        "date": "October 17, 2019",
-        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Charlotte-Li\">Charlotte Li</a>\nEdited by <a href=\"https://www.columbiaspectator.com/contributors/Jun-Yi-Zhang\">Jun Yi Zhang</a>",
-        "USE_NEWS_NAV": true,
-        "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "headline": "Struggling to Find the Proper Bin: Navigating Columbia’s Waste Management Issues",
+        "date": "May 16, 2022",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Daniela-Miranda\">Daniela Miranda</a><br>Graphics by <a href=\"https://www.columbiaspectator.com/contributors/Andrew-Park\">Andrew Park</a> and <a href=\"https://www.columbiaspectator.com/contributors/Devon-Campbell\">Devon Campbell</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/6ASLAO3R2BB3XCVZ3AHZCAJXPQ.png",
+        "cover_caption": "Illustration by Julian Michaud",
+        "USE_NEWS_NAV": false,
+        "USE_EYE_NAV": true,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
         "DOC_URL": "https://docs.google.com/document/d/1sQsZ1hRJ8r-v_ek14yNrqDILDFnvw60ahAHnYfs5QUw/edit"
       }
