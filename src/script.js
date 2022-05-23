@@ -1,7 +1,7 @@
 import textBalancer from 'text-balancer';
 import initiatePage from './scripts/page';
 import { intersectTop } from './scripts/utils';
-
+import './scripts/compostmap.js'
 import { spectate as spectateConfig } from '../package.json';
 
 // Main page initiation

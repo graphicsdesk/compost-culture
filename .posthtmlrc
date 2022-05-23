@@ -128,25 +128,34 @@
           },
           {
             "type": "text",
-            "value": "Practicing sustainable waste disposal under Columbia’s current system can, admittedly, be inconvenient. Still, I believe it doesn’t have to be this way. When far from Ferris or JJ’s, I don’t know where to dispose of compostable vessels, other than the trash bin right by me. Yet, I can’t help but wince everytime I see piled-up compostable vessels and food scraps overflowing in campus trash bins. When we stand in front of a waste station, be it in Ferris or on the South Lawn, we should know exactly where our waste should go and be confident that it will get there. While we must do our part, ultimately, it will take a combination of student action and renewed administrative efforts to expand Columbia’s composting program and eliminate the waste contamination currently hindering meaningful waste diversion initiatives."
+            "value": "Practicing sustainable waste disposal under Columbia’s current system can, admittedly, be inconvenient. Still, I believe it doesn’t have to be this way. When far from Ferris or JJ’s, I don’t know where to dispose of compostable vessels, other than the trash bin right by me. Yet, I can’t help but wince everytime I see piled-up compostable vessels and food scraps overflowing in campus trash bins. When we stand in front of a waste station, be it in Ferris or on the South Lawn, we should know exactly where our waste should go and be confident that it will get there. While we must do our part, ultimately, it will take a combination of student action and renewed administrative efforts to expand Columbia’s composting program and eliminate the waste contamination currently hindering meaningful waste diversion initiatives.◊"
           },
           {
             "type": "text",
-            "value": "<i>Staff writer </i><i>Daniela Miranda</i><i> can be contacted at </i><a href=\"mailto:daniela.miranda@columbiaspectator.com\"><i>daniela.miranda@columbiaspectator.com</i></a><i>. Follow The Eye on </i><a href=\"https://www.instagram.com/theeye.mag/\"><i>Instagram</i></a><i>. </i>"
+            "value": "<i>Staff writer </i><a href=\"https://www.columbiaspectator.com/contributors/Daniela-Miranda/\"><i>Daniela Miranda</i></a><i> can be contacted at </i><a href=\"mailto:daniela.miranda@columbiaspectator.com\"><i>daniela.miranda@columbiaspectator.com</i></a><i>. Follow The Eye on </i><a href=\"https://www.instagram.com/theeye.mag/\"><i>Instagram</i></a><i>. </i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Deputy Editor </i><a href=\"https://www.columbiaspectator.com/contributors/Devon-Campbell/\"><i>Devon Campbell</i></a><i> can be contacted at </i><a href=\"mailto:devon.campbell@columbiaspectator.com\"><i>devon.campbell@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Editor </i><a href=\"https://www.columbiaspectator.com/contributors/Andrew-Park\"><i>Andrew Park</i></a><i> can be contacted at </i><a href=\"mailto:andrew.park@columbiaspectator.com\"><i>andrew.park@columbiaspectator.com</i></a><i>. Follow him on Twitter </i><a href=\"https://twitter.com/androo_park\"><i>@androo_park</i></a><i>.</i>"
           },
           {
             "type": "text",
             "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
           }
         ],
-        "headline": "Struggling to Find the Proper Bin: Navigating Columbia’s Waste Management Issues",
-        "date": "May 16, 2022",
-        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Daniela-Miranda\">Daniela Miranda</a><br>Graphics by <a href=\"https://www.columbiaspectator.com/contributors/Andrew-Park\">Andrew Park</a> and <a href=\"https://www.columbiaspectator.com/contributors/Devon-Campbell\">Devon Campbell</a>",
+        "headline": "",
+        "date": "",
+        "byline": "",
         "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/6ASLAO3R2BB3XCVZ3AHZCAJXPQ.png",
         "cover_caption": "Illustration by Julian Michaud",
+        "footer": "<b>Methodology</b>\nSpectator surveyed 270 undergraduate students from both Columbia and Barnard. Graphics reporters Ethan Zhang and Franco Magalhaes also contributed to the data analysis.",
         "USE_NEWS_NAV": false,
-        "USE_EYE_NAV": true,
-        "USE_COVER_HED": true,
+        "USE_EYE_NAV": false,
+        "USE_COVER_HED": false,
         "IS_EMBED": false,
         "DOC_URL": "https://docs.google.com/document/d/1sQsZ1hRJ8r-v_ek14yNrqDILDFnvw60ahAHnYfs5QUw/edit"
       }

@@ -418,7 +418,28 @@ header {
     display: block;
   }
 }
-
+.disposalkey{
+  float:left;
+}
+.containerkey{
+  float:left;
+}
+.keystuff{
+  margin-top:5%;
+  margin-bottom:5%;
+}
+.keystuff p{
+  padding-left: 7%;
+  margin-top: auto;
+  font-size:14px;
+}
+.keyicons{
+  width:5%;
+  float:left;
+}
+.icons{
+  width:15%;
+}
 .dinkus {
   text-align: center;
   height: 20px;
