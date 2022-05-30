@@ -1,7 +1,4 @@
-body { 
-    margin: 10; 
-    padding: 10; 
-  }
+
   #map { 
     position:relative;
     height: 720px;
@@ -64,7 +61,48 @@ body {
     margin-right: auto;
     width: 600px;
   }
-    
+  .store-legend:after{
+    -webkit-box-sizing: content-box !important;
+    -moz-box-sizing: content-box !important;
+    box-sizing: content-box !important;}
+  .keycontainer:after{
+      -webkit-box-sizing: content-box !important;
+      box-sizing: content-box !important;
+  }
+  .keycontainer p:after{
+    -webkit-box-sizing: content-box !important;
+    -moz-box-sizing: content-box !important;
+    box-sizing: content-box !important;
+}
+
+  .keystuff:after{
+    -webkit-box-sizing: content-box !important;
+      box-sizing: content-box !important;
+  }
+  .keystuff p:after{
+    -webkit-box-sizing: content-box !important;
+    -moz-box-sizing: content-box !important;
+    box-sizing: content-box !important;}
+  .disposalkey:after{
+    -webkit-box-sizing: content-box !important;
+      box-sizing: content-box !important;
+  }
+  .disposalkey p:after{
+    -webkit-box-sizing: content-box !important;
+    -moz-box-sizing: content-box !important;
+    box-sizing: content-box !important;}
+  .containerkey:after{
+    -webkit-box-sizing: content-box !important;
+      box-sizing: content-box !important;
+  }
+  .containerkey p:after{
+    -webkit-box-sizing: content-box !important;
+    -moz-box-sizing: content-box !important;
+    box-sizing: content-box !important;}
+  .store-legend, .store-legend * {
+    -webkit-box-sizing: content-box !important;
+    -moz-box-sizing: content-box !important;
+    box-sizing: content-box !important;}
   .legend div span {
     border-radius: 50%;
     display: inline-block;
@@ -84,10 +122,12 @@ body {
     .legend div span {
       width: 3%;
     }
-  }
-
-  @media screen and (max-width: 600px) {
     #map {
-      width: 80%;
-    }
+        width: 80%;
+      }
+  }
+  *,::after,::before{
+      -webkit-box-sizing: content-box !important;
+      -moz-box-sizing: content-box !important;
+      box-sizing: content-box !important;
   }

@@ -152,6 +152,7 @@
         "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Daniela-Miranda\">Daniela Miranda</a>",
         "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/6ASLAO3R2BB3XCVZ3AHZCAJXPQ.png",
         "cover_caption": "Illustration by Julian Michaud",
+        "footer": "Spectator surveyed 270 Columbia undergraduate and Barnard students. Graphics reporter Ethan Zhang and Graphics trainee Franco Magalhaes contributed to data analysis and graphics production.",
         "USE_NEWS_NAV": false,
         "USE_EYE_NAV": true,
         "USE_COVER_HED": true,
